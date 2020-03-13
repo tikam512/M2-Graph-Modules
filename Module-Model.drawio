@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T14:16:33.060Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="vddqJj47zsKNX7yUB6Sx" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T14:18:38.337Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="_cS-N8t1rvTkGRJhrJHB" version="12.8.4" type="github">
   <diagram id="3Gwex4awZwpqN9QZlOrT" name="Page-1">
     <mxGraphModel dx="1775" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-19" value="&lt;div&gt;As a Directory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-385" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ozoOBvcNnjLol-_-BVLn-21" value="Resources Model Class (Item.php)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozoOBvcNnjLol-_-BVLn-22" value="As a Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="170" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
