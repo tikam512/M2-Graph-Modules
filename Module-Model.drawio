@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T15:09:17.795Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="5-4C6J6Cy8_Bll0YwRyS" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T15:15:18.133Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="U6wBBhOjXq3jxxsHEXMW" version="12.8.4" type="github">
   <diagram id="3Gwex4awZwpqN9QZlOrT" name="Page-1">
     <mxGraphModel dx="1775" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,23 +49,23 @@
         <mxCell id="ozoOBvcNnjLol-_-BVLn-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ozoOBvcNnjLol-_-BVLn-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="200" as="sourcePoint" />
-            <mxPoint x="620" y="210" as="targetPoint" />
+            <mxPoint x="570" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-25" value="&lt;b&gt;Extends&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="180" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="180" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-26" value="&lt;b&gt;Step 1&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="120" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-29" value="AbstractDb" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="180" width="120" height="50" as="geometry" />
+          <mxGeometry x="570" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-30" value="Core Library Class" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-385" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-31" value="AbstractDb -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\AbstractDb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="240" width="580" height="20" as="geometry" />
+          <mxGeometry x="515" y="240" width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-1" value="" style="endArrow=none;html=1;entryX=0.092;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ozoOBvcNnjLol-_-BVLn-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,19 +104,22 @@
           <mxGeometry x="220" y="480" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-13" value="AbstractModel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="475" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="475" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="D6z27ReZSQ_k1aPt0-zH-12" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="490" as="sourcePoint" />
-            <mxPoint x="630" y="500" as="targetPoint" />
+            <mxPoint x="530" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-15" value="&lt;b&gt;Extends&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="475" width="50" height="20" as="geometry" />
+          <mxGeometry x="430" y="475" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-16" value="AbstractModel -&amp;gt; \Magento\Framework\Model\AbstractModel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="530" width="430" height="20" as="geometry" />
+          <mxGeometry x="510" y="525" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-17" value="Specifying Source Model as Resource Model (Step 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="530" width="430" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
