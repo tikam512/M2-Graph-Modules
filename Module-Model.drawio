@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T15:15:18.133Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="U6wBBhOjXq3jxxsHEXMW" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T15:26:32.076Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="KvUH1vwzg2bGl6VQn5gA" version="12.8.4" type="github">
   <diagram id="3Gwex4awZwpqN9QZlOrT" name="Page-1">
     <mxGraphModel dx="1775" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,33 @@
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-17" value="Specifying Source Model as Resource Model (Step 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="85" y="530" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-18" value="" style="endArrow=classic;html=1;exitX=0.11;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D6z27ReZSQ_k1aPt0-zH-8" target="D6z27ReZSQ_k1aPt0-zH-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="340" as="sourcePoint" />
+            <mxPoint x="210" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="212" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-19" value="&amp;nbsp;Collection.php" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-20" value="&lt;b&gt;Extends&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-24" value="AbstractCollection" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="340" width="202.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367.5" y="369" as="sourcePoint" />
+            <mxPoint x="480" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-27" value="AbstractCollection -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="400" width="620" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
