@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T15:26:32.076Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="KvUH1vwzg2bGl6VQn5gA" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T19:56:48.986Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="_AvGoSUMeb6GRWsHF7vL" version="12.8.4" type="github">
   <diagram id="3Gwex4awZwpqN9QZlOrT" name="Page-1">
     <mxGraphModel dx="1775" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-27" value="AbstractCollection -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="400" width="620" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-33" value="Here identify the Model and ResourceModel using init function " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
