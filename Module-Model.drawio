@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T20:24:11.325Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Povv8Qt1pImjOBUqDKC5" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T20:26:45.093Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="xlZP4SS8Ai5DEDkpdfOt" version="12.8.4" type="github">
   <diagram id="3Gwex4awZwpqN9QZlOrT" name="Page-1">
     <mxGraphModel dx="1775" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="ozoOBvcNnjLol-_-BVLn-30" value="Core Library Class" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-222.5" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ozoOBvcNnjLol-_-BVLn-31" value="AbstractDb -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\AbstractDb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ozoOBvcNnjLol-_-BVLn-31" value="&lt;p&gt;&lt;font color=&quot;#CC0000&quot;&gt;AbstractDb -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\AbstractDb&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-1" value="" style="endArrow=none;html=1;entryX=0.092;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ozoOBvcNnjLol-_-BVLn-13">
@@ -115,7 +115,7 @@
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-15" value="&lt;b&gt;Extends&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="475" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D6z27ReZSQ_k1aPt0-zH-16" value="AbstractModel -&amp;gt; \Magento\Framework\Model\AbstractModel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-16" value="&lt;font color=&quot;#CC0000&quot;&gt;AbstractModel -&amp;gt; \Magento\Framework\Model\AbstractModel&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="525" width="430" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-17" value="Specifying Source Model as Resource Model (Step 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -145,7 +145,7 @@
             <mxPoint x="480" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D6z27ReZSQ_k1aPt0-zH-27" value="AbstractCollection -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="D6z27ReZSQ_k1aPt0-zH-27" value="&lt;font color=&quot;#CC0000&quot;&gt;AbstractCollection -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="620" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6z27ReZSQ_k1aPt0-zH-33" value="Here identify the Model and ResourceModel using init function " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
