@@ -1,21 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T20:02:33.110Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="jE7IQXVQZDo4EBatd2OY" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T20:04:44.175Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="dsN6BYJ08xINvjHt0oi6" version="12.8.4" type="github">
   <diagram id="3Gwex4awZwpqN9QZlOrT" name="Page-1">
     <mxGraphModel dx="1775" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ozoOBvcNnjLol-_-BVLn-1" value="&lt;i&gt;&lt;b&gt;Model&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="50" width="40" height="20" as="geometry" />
+          <mxGeometry x="-187.5" y="135" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-2" value="&lt;div&gt;&lt;u&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Magento 2&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-265" y="30" width="100" height="20" as="geometry" />
+          <mxGeometry x="-212.5" y="90" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-4" value="&lt;b&gt;Model&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="70" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-5" value="" style="shape=link;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ozoOBvcNnjLol-_-BVLn-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-5" y="510" as="sourcePoint" />
+            <mxPoint x="-5" y="680" as="sourcePoint" />
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -35,16 +35,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-17" value="&lt;b&gt;Representation&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="80" width="130" height="20" as="geometry" />
+          <mxGeometry x="-232.5" y="200" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-19" value="&lt;div&gt;As a Directory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="-222.5" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-21" value="Resources Model Class (Item.php)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="190" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-22" value="As a Files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="170" width="115" height="40" as="geometry" />
+          <mxGeometry x="-220" y="300" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ozoOBvcNnjLol-_-BVLn-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,7 +62,7 @@
           <mxGeometry x="570" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-30" value="Core Library Class" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-282.5" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="-222.5" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozoOBvcNnjLol-_-BVLn-31" value="AbstractDb -&amp;gt; \Magento\Framework\Model\ResourceModel\Db\AbstractDb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="515" y="240" width="580" height="20" as="geometry" />
